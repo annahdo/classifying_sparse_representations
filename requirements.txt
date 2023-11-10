@@ -1,0 +1,16 @@
+torch
+numpy
+seaborn
+matplotlib
+tqdm
+scikit-learn
+transformers
+huggingface-hub
+datasets
+notebook
+torchtyping
+transformers 
+tiktoken 
+wandb
+optree
+torchopt
