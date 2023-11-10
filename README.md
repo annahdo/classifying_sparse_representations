@@ -1,6 +1,6 @@
 # Classification of IMDB data by using model hiddenstates and their sparse encodings
 
-I'm interested in finding out if the sparse autoencoded representations are better for classification. The idea was inspired by [this paper](https://arxiv.org/pdf/2309.08600.pdf) and my [previous work](https://github.com/annahdo/exploring_directions).
+I'm interested in finding out if the sparse autoencoded representations for hidden activations of LLMs are better for classification. The idea was inspired by [this paper](https://arxiv.org/pdf/2309.08600.pdf) and my [previous work](https://github.com/annahdo/exploring_directions).
 
 ### Install
 You will have to clone the sparse coding repository to access the relevant class definitions. You also need to add the folder to your path.
